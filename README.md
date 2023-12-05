@@ -17,7 +17,7 @@ python fun-a.py
 This command will launch a Turtle graphics window, presenting the delightful drawing.
 
 ### Video Preview
-Witness the magic in action! Check out the video preview: [fun-a.mp4](https://res.cloudinary.com/dlkqilyi0/video/upload/v1701774335/Untitled_video_-_Made_with_Clipchamp_qgdpka.mp4)
+Witness the magic in action! Check out the video preview: [fun-a.mp4](fun-a.mp4)
 
 ### Dependencies
 - Python
